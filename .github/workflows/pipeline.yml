@@ -34,7 +34,7 @@ jobs:
         with:
           apiToken: 4p9PuyT7vB1snuX2Eh01ZR6c_Zjc57uGpcIavscP
           accountId: 8a8fe81de85a52a0edd5cc5f115785b7
-          projectName: daric-coin # Replace with your Cloudflare Pages project name
+          projectName: goku-miner-wiki # Replace with your Cloudflare Pages project name
           directory: out
           # Optional: Enable SPA mode for client-side routing
           # singlePageApp: true
